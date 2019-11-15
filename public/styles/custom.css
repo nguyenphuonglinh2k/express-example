@@ -1,0 +1,19 @@
+.navbar-demo li {
+	list-style-type: none;
+	display: inline-block;
+	margin-right: 20px;
+	font-size: 20px;
+	color: white;
+	margin-top: 20px;
+	text-transform: capitalize;
+}
+
+.navbar-demo a {
+	color: black;
+	padding: 5px 0;
+}
+
+.navbar-demo a:hover {
+	text-decoration: none;
+	border-bottom: 2px solid red;
+}
